@@ -1,0 +1,28 @@
+
+/*Schriftart*/
+
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+/*Body*/
+
+body {
+		font-family:'Josefin Sans';
+		background-color: #b0E0E6;
+		font-size: 25pt;
+		margin-top:4em;
+		text-align:center;}
+
+/*Verlinkungen*/
+
+div {
+	 margin-top:3em;
+	 font-size:18pt;}
+	 
+a:visited {
+		  color:black;}	 
+		
+a:hover {
+		 font-size:18.5pt;
+		 cursor:pointer;}		
+
+	
